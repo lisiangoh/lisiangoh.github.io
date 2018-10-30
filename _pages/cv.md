@@ -46,9 +46,6 @@ Awards & Honors
 Teaching Experience
 ======
 * Courses Taught
- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 * Teaching Assistance
  * CRIM-602:  Criminal  Justice  Data  Analytics  (Fall  2018)
