@@ -46,24 +46,24 @@ Awards & Honors
 Teaching Experience
 ======
 * Courses Taught
-  
-* Teaching Assistance
- * CRIM-602:  Criminal  Justice  Data  Analytics  (Fall  2018)
- * CRIM-603:  Research  Methods/Crime  Analysis  Project  (Spring  2018)
- 
+
+* Teaching Assistance 
+  * CRIM-602:  Criminal  Justice  Data  Analytics  (Fall  2018)
+  * CRIM-603:  Research  Methods/Crime  Analysis  Project  (Spring  2018)
+
 * Training
- * Teaching  Assistant  Training  Course,  University  of  Pennsylvania  (Fall  2016)
+  * Teaching  Assistant  Training  Course,  University  of  Pennsylvania  (Fall  2016)
  
 * Guest  Lectures  &  Lessons  
- * Guest  Lecture,  “Women’s  Rightsin  Singapore.”  Singapore  Management  University  module  on  Special  Projects  with  International  Organisations  taught  by  Professor  Song  Jiyoung  (November  2015).
- * Guest  Lecture,  “The  Question  of  Women’s  Empowerment,”  United  Nations  Association  of  Singapore  Model  United  Nations  Preparatory  Conference  at  SIM  University (December  2015). 
+  * Guest  Lecture,  “Women’s  Rightsin  Singapore.”  Singapore  Management  University  module  on  Special  Projects  with  International  Organisations  taught  by  Professor  Song  Jiyoung  (November  2015).
+  * Guest  Lecture,  “The  Question  of  Women’s  Empowerment,”  United  Nations  Association  of  Singapore  Model  United  Nations  Preparatory  Conference  at  SIM  University (December  2015). 
  
  
 Academic Service 
 ======
 * Department  Representative:  Graduate  Student  Government  of  the  School  of  Arts  &  Sciences  (2018–2019)  
 * Navigating  the  Dissertation  Fellow:  Graduate  Student  Center at  the  University  of  Pennsylvania  (2017–present)
- * Plan  and  coordinate  workshops,  online  resources,  and  special  programming  that  supports  doctoral  students  in  all  stages  of  dissertation  research  and  writing.
+  * Plan  and  coordinate  workshops,  online  resources,  and  special  programming  that  supports  doctoral  students  in  all  stages  of  dissertation  research  and  writing.
 
 
 Professional Memberships/Affiliations
